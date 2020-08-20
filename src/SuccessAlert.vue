@@ -1,0 +1,5 @@
+<template>
+  <div class="alert alert-success">
+    This is a success message
+  </div>
+</template>
